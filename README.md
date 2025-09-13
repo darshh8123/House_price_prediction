@@ -28,6 +28,8 @@ Joblib: For saving and loading the trained model.
 NumPy: For numerical operations.
 
 Colab file link: https://colab.research.google.com/drive/1sEkQDhfClV-DboFc1QbE31tXACxMAU7g?usp=sharing
+
+Deployed_link: https://housepriceprediction-hpvwj9tue9nqhxqdq9x9ci.streamlit.app/
 # Project Interface
 <img width="881" height="703" alt="Screenshot 2025-09-13 123431" src="https://github.com/user-attachments/assets/1f1b9aa1-c02b-47ce-992e-d4404ce03468" />
 
