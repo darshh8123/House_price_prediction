@@ -27,11 +27,15 @@ Joblib: For saving and loading the trained model.
 
 NumPy: For numerical operations.
 
+# Project Interface
+<img width="881" height="703" alt="Screenshot 2025-09-13 123431" src="https://github.com/user-attachments/assets/1f1b9aa1-c02b-47ce-992e-d4404ce03468" />
+
+
 <img width="935" height="604" alt="Screenshot 2025-09-13 115655" src="https://github.com/user-attachments/assets/0c89b360-ffdc-4cb4-97b9-40054970dfa5" />
 <img width="879" height="745" alt="Screenshot 2025-09-13 115713" src="https://github.com/user-attachments/assets/42efd040-16ed-42ca-9fbd-5b7ec6a9cc08" />
 <img width="875" height="630" alt="Screenshot 2025-09-13 115812" src="https://github.com/user-attachments/assets/11fd4a73-6efe-430a-8ad1-2f643e3b8ea6" />
 <img width="1109" height="742" alt="Screenshot 2025-09-13 123519" src="https://github.com/user-attachments/assets/83ba2e2d-cda6-44d3-aa85-277556c1bf4a" />
-<img width="881" height="703" alt="Screenshot 2025-09-13 123431" src="https://github.com/user-attachments/assets/1f1b9aa1-c02b-47ce-992e-d4404ce03468" />
+
 
 
 
